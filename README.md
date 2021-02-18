@@ -1,4 +1,4 @@
-# H1 Summit
+# Summit
 Bored Games Co.
 - A.Y. Abdalla
 - Chelsea Parker
