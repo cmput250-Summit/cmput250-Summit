@@ -10,4 +10,4 @@ Bored Games Co.
 
 [Tech Demo Release Web](/SummitTechDemo/index.html)
 
-[Tech Demo Release Download](SummitTechDemo.7z)
+[Tech Demo Release Download](SummitTechDemo.zip)
