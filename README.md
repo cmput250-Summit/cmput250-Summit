@@ -12,6 +12,6 @@ Bored Games Co.
 
 [Tech Demo Release Download](SummitTechDemo.zip)
 
-[Vertical Slice Release Web](/Summit-VerticalSlice/index.html)
+[Vertical Slice Release Web](/SummitVerticalSlice/index.html)
 
-[Vertical Slice Release Download](Summit-VerticalSlice.zip)
+[Vertical Slice Release Download](SummitVerticalSlice.zip)
