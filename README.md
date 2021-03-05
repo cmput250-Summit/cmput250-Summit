@@ -15,4 +15,3 @@ Bored Games Co.
 [Vertical Slice Release Web](/SummitVerticalSlice/index.html)
 
 [Vertical Slice Release Download](SummitVerticalSlice.zip)
-test
