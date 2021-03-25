@@ -10,9 +10,9 @@ Bored Games Co.
 Summit is a moving block puzzle game that takes place on Mt. Stranger, a grief retreat program. Each stage of grief has its own unique puzzle mechanic and consists of three sub-stages. 
 
 **Controls**
-Arrow Keys - Move
-R - Reset Level
-Shift - Join/un-join blocks in bargaining
+- Arrow Keys: Move
+- R: Reset Level
+- Shift: Join/un-join blocks in bargaining
 
 Beta Survey: TODO
 
