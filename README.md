@@ -15,7 +15,7 @@ Summit is a moving block puzzle game that takes place on Mt. Stranger, a grief r
 - Shift: Join/un-join blocks in bargaining
 - Enter: Interact with NPC's and signs
 
-Beta Survey: TODO
+Beta Survey: https://docs.google.com/forms/d/e/1FAIpQLScMRHUpTC3nFcdN1ofMdUOJGS81Gqz4-fOOta9zlIuH16j36Q/viewform
 
 [Beta Release Web](/SummitBeta/index.html)
 
