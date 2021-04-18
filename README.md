@@ -41,6 +41,8 @@ Timestamps for puzzles:
     - Level 2: 12:49
     - Level 3: 13:32
 
+# Play Summit
+
 ### Gold Release ###
 
 
