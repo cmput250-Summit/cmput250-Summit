@@ -34,7 +34,7 @@ null,
 {"id":32,"expanded":false,"name":"Restart","order":20,"parentId":11,"scrollX":832,"scrollY":640},
 {"id":33,"expanded":true,"name":"Bargaining-Puzzle2","order":22,"parentId":12,"scrollX":728,"scrollY":409.77777777777777},
 {"id":34,"expanded":false,"name":"Bargaining-Puzzle3","order":23,"parentId":12,"scrollX":728,"scrollY":409.77777777777777},
-{"id":35,"expanded":false,"name":"Restart","order":24,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":35,"expanded":false,"name":"Restart","order":24,"parentId":12,"scrollX":728,"scrollY":409.77777777777777},
 {"id":36,"expanded":false,"name":"Depression-Puzzle2","order":26,"parentId":13,"scrollX":0,"scrollY":0},
 {"id":37,"expanded":false,"name":"Depression-Puzzle3","order":27,"parentId":13,"scrollX":0,"scrollY":0},
 {"id":38,"expanded":false,"name":"Depression-Restart","order":28,"parentId":13,"scrollX":832,"scrollY":640}
