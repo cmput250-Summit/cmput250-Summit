@@ -1,4 +1,4 @@
-# Summit
+# [Summit](/SummitGold/index.html)
 Bored Games Co.
 - A.Y. Abdalla
 - Chelsea Parker
@@ -8,10 +8,6 @@ Bored Games Co.
 - Kate Vlaar
 
 Summit is a moving block puzzle game that takes place on Mt. Stranger, a grief retreat program. Each stage of grief has its own unique puzzle mechanic and consists of three sub-stages. 
-
-### Custom Features ###
-
-All art in Summit is original. Sound effects and background music curtesy of freesound.org. Summit was built using RPGMaker, including all mechanics for the puzzles.
 
 ### Controls ###
 - Arrow Keys: Move
@@ -40,6 +36,10 @@ Timestamps for puzzles:
     - Level 1: 12:33
     - Level 2: 12:49
     - Level 3: 13:32
+
+### Custom Features ###
+
+All art in Summit is original or based off of RPGMaker default assets. Sound effects and background music curtesy of freesound.org and RPGMaker. All writing is original. Summit was built using RPGMaker, including all mechanics for the puzzles.
 
 # Play Summit
 
